@@ -7,7 +7,7 @@
 
 <script>
 export default {
-    name: 'Compontent2',
+    name: 'Component2',
     props: {
         msg: {
             require: true,
